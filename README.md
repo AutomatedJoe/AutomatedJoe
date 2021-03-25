@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AutomatedJoe
-- 👀 I’m interested in using python for network automation. 
+- 👀 I’m interested in using python and other tools for network automation. 
 - 🌱 I’m currently learning python, netconf, ncclient, napalm, more.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Juniper, Cisco, and Arista network and lab automation.
 - 📫 How to reach me joe.leone@mdsiinc.com
 
 <!---
