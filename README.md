@@ -2,7 +2,7 @@
 - 👀 I’m interested in using python for network automation. 
 - 🌱 I’m currently learning python, netconf, ncclient, napalm, more.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me joe.leone@mdsiinc.com
 
 <!---
 AutomatedJoe/AutomatedJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
